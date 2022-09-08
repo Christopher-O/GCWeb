@@ -1,0 +1,6 @@
+.gc-chckbxrdio input[type=checkbox]+label:hover::before, .gc-chckbxrdio input[type=radio]+label:hover::before {
+  outline: 5px solid transparent;
+}
+.gc-chckbxrdio input[type=checkbox]:focus+label::before, .gc-chckbxrdio input[type=radio]:focus+label::before {
+    outline: 5px solid transparent;
+}
